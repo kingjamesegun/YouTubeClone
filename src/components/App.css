@@ -1,0 +1,16 @@
+.form{
+    width: 50%;
+    border: none;
+    height: 30px;
+
+}
+input{
+    width: 100%;
+    border: 1px solid #000;
+    height: 30px;
+}
+@media (max-width: 767px) {
+    .form{
+        margin-left: 30px !important
+    }
+}
